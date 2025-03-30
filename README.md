@@ -1,5 +1,6 @@
-# FastAPI-for-ML
-Building a simple FastAPI application for model inference. 
+# FastAPI-iris-ml-project
+Building a simple FastAPI ML application for Iris dataset. 
+Credit: Project from Kingabzpro, great training!
 
 ## Usage
 ```shell
@@ -8,6 +9,6 @@ python app.py
 ```
 
 ## Output
-![image1.png](./image2.png)
-![image2.png](./image1.png)
+![predict.png](./predict.png)
+![results.png](./results.png)
 
